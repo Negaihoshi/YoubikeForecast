@@ -10,7 +10,7 @@
     <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <script src="jquery.tinyMap.min.js"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Ubike 預報</title>
+    <title>Youbike 預報</title>
   </head>
   <body class="sun">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -18,12 +18,12 @@
         <div class="navbar-header">
 
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Ubike 預報</span>
+            <span class="sr-only">Youbike 預報</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Ubike 預報</a>
+          <a class="navbar-brand" href="#">Youbike 預報</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
